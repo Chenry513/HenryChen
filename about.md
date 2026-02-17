@@ -15,7 +15,7 @@ redirect_from:
 
 ## About
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+A boutique Jekyllssss theme for hackers, nerds, and academics.  
 {:.lead}
 
 1. this list will be replaced by the toc
