@@ -2,48 +2,23 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  Personal website of Henry Chen — software engineering, machine learning,
-  and computer vision.
+  A boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
 hide_description: true
+redirect_from:
+  - /download/
 ---
 
 # About
 
 <!--author-->
 
-Hey, I'm Henry — I enjoy applying software engineering and machine learning to real-world problems.
+## Hydejack
 
-I completed my **B.Sc. in Computing Science** at **Simon Fraser University** and am currently pursuing my **M.Sc. in Applied Computing** at **BCIT** (expected Dec. 2026).
+A boutique Jekyll theme for hackers, nerds, and academics.  
+{:.lead}
 
----
+1. this list will be replaced by the toc
+{:toc .large-only}
 
-Right now I'm working as a **Mitacs Research Intern** at BCIT in collaboration with Seaspan Shipyards, where I'm building data pipelines and ML models for robotic welding — developing computer vision systems that detect welding joints and guide automation in real-world manufacturing environments.
-
-I like seeing how code moves beyond the screen and interacts with real systems, especially when working across interdisciplinary teams where software connects with hardware and engineering.
-
----
-
-## Work Experience
-
-- **Mitacs Research Intern** — BCIT / Seaspan Shipyards (Jan. 2026 – Present)
-- **Research Assistant** — SFU PadComputing Lab (May – Aug. 2025)
-- **Research Assistant** — SFU PadComputing Lab (Aug. – Dec. 2024)
-
-[See full resume →](/assets/Resume.pdf)
-
----
-
-## Projects
-
-- **30-Day Hospital Readmission Prediction** — ML pipeline for clinical risk prediction
-- **Emotion-Based Break Recommendation** — Deep learning frustration detection from gameplay video
-- **Rankr** — Real-time collaborative polling system
-- **CIFAR-100 Image Classification** — CNN trained on 100-class dataset, ranked 13th/120
-
----
-
-Outside of work, you'll usually find me at the gym or snowboarding.
-
-Feel free to connect if you'd like to chat or find my work interesting.
-
-[LinkedIn](https://www.linkedin.com/in/henry-chen-832a89386/) · [GitHub](https://github.com/Chenry513) · hchen285@my.bcit.ca
+... (all the Hydejack marketing content)
