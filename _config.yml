@@ -40,7 +40,7 @@ keywords:              []
 logo:                  /assets/img/blog/logo.PNG
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author:                author1
+author:              
   # Used by `jekyll-feed`:
   name:                Henry Chen
   email:               hchen285@my.bcit.ca
