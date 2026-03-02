@@ -5,7 +5,7 @@ permalink: /projects/cardioscan/
 ---
 
 **Dec 2025 · Data Science and ML**
-[cardiac-assessment.onrender.com](https://cardiac-assessment.onrender.com)
+[cardiac-assessment.onrender.com](https://cardiac-assessment.onrender.com) · [github.com/Chenry513/Readmeify](https://github.com/Chenry513/cardiac_assessment)
 
 ## The Project
 
