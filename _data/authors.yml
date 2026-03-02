@@ -2,12 +2,11 @@ author1:
   name:              Henry Chen
   email:             hchen285@my.bcit.ca
   about:             |
-    Hey, I'm Henry — I enjoy applying software engineering and machine learning to real-world problems.
-    I completed my **B.Sc. in Computing Science** at **Simon Fraser University** and am currently pursuing my **M.Sc. in Applied Computing** at **BCIT** (expected Dec. 2026).
-    Right now I'm working as a **Mitacs Research Intern** at BCIT in collaboration with Seaspan Shipyards,
-    where I'm building data pipelines and ML models for robotic welding — developing computer vision systems
-    that detect welding joints and guide automation in real-world manufacturing environments.
-    Outside of work, you'll usually find me at the gym or snowboarding.
+    Hey, I'm Henry — this site is just a place for me to document and keep track of my work, all in one spot. Mostly so I can look back and reflect on how I was thinking when I built things.
+
+    I completed my **B.Sc. in Computing Science** at **Simon Fraser University** and am currently pursuing my **M.Sc. in Applied Computing** at **BCIT**.
+
+    Feel free to have a scroll through my work — and if you want to let me know what you think or anything, feel free to reach out. Have a nice day.
   picture:
     path:            /assets/img/blog/logo.PNG
     srcset:
