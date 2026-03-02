@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mitacs Research Intern — BCIT and Seaspan Shipyards"
-permalink: /HenryChen/work-experience/mitacs-intern/
+permalink: /work-experience/mitacs-intern/
 ---
 
 **Jan 2026 – Present · Vancouver, BC**
