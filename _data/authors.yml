@@ -9,10 +9,10 @@ author1:
     that detect welding joints and guide automation in real-world manufacturing environments.
     Outside of work, you'll usually find me at the gym or snowboarding.
   picture:
-    path:            /assets/img/hc-logo.svg
+    path:            /assets/img/blog/logo.PNG
     srcset:
-      1x:            /assets/img/hc-logo.svg
-      2x:            /assets/img/hc-logo.svg
+      1x:            /assets/img/blog/logo.PNG
+      2x:            /assets/img/blog/logo.PNG
   social:
     github:          Chenry513
     linkedin:        henry-chen-832a89386
