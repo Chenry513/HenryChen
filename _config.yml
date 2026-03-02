@@ -11,8 +11,7 @@ lang:                  en
 title:                 Henry Chen
 
 description:           >
-  Personal website of Henry Chen — software engineering, machine learning,
-  computer vision, and more.
+
 
 # Removed tagline so "Software Engineer | ML Researcher" no longer appears in sidebar
 # tagline:             Software Engineer | ML Researcher
