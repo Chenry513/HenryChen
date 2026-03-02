@@ -1,13 +1,11 @@
 ---
 layout: page
 title: "Research Assistant - SFU PadComputing Lab"
-permalink: /HC/work-experience/sfu-padcomputing/
+permalink: /HenryChen/work-experience/sfu-padcomputing/
 ---
 
 **Aug 2024 – Aug 2025 · Burnaby, BC**
 *Prof. Nicholas Vincent*
-
----
 
 ## The Project
 
@@ -15,15 +13,11 @@ permalink: /HC/work-experience/sfu-padcomputing/
 
 The content is community driven. Anyone can contribute by submitting a Markdown file to the GitHub repo and the system handles the rest automatically.
 
----
-
 ## First Term — Backend (Aug – Dec 2024)
 
 When I joined the project the platform was early stage and needed a solid backend foundation. I built out the Django backend from scratch, which involved designing the relational schema for storing model metadata, implementing over eight RESTful API endpoints using Django REST Framework, and setting up migrations to keep the database in a stable state as the project evolved. I also worked on the Django Admin interface to make it easier to manage content without needing to touch the database directly.
 
 The goal for this term was mostly getting the infrastructure in place so the platform could actually function reliably and be extended without things breaking.
-
----
 
 ## Second Term — Automation and CI (May – Aug 2025)
 
@@ -32,8 +26,6 @@ The second term was about making the platform easier to scale. The problem was t
 I built an automated ingestion pipeline that takes a contributor's Markdown file, validates it against a schema to make sure the format and required fields are correct, converts it into Django models, and pushes it to the SQLite database. The whole thing runs without anyone having to do anything manually. If the file passes validation it shows up on the live site within a minute of being submitted.
 
 On top of that I integrated GitHub Actions to run the validation checks automatically on every submission, so bad or malformed files get caught before they ever reach the database. This cut down manual review work by around 60%.
-
----
 
 ## The Linter
 
@@ -61,8 +53,6 @@ severity: medium
 
 If a required field is missing or a field has the wrong type, the linter catches it and reports exactly which file and which field failed before anything reaches the database.
 
----
-
 ## The Processing Pipeline
 
 Once validation passes, a Django management command handles the actual database update. It runs automatically after every Markdown commit via GitHub Actions.
@@ -84,8 +74,6 @@ for result in results:
 ```
 
 The key part is `update_or_create` — if a model already exists in the database it gets updated, if it is new it gets inserted. It also cleans up stale records automatically, so if someone deletes a Markdown file the corresponding database entry gets removed too. No manual intervention needed at any point in the flow.
-
----
 
 ## Stack
 
