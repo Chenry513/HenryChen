@@ -19,7 +19,7 @@ description:           >
 keywords:              []
 
 # HC monogram logo — place the hc-logo.svg file at assets/img/hc-logo.svg
-logo:                  /assets/img/hc-logo.svg
+logo: /assets/img/blog/hc-logo.svg
 
 author:              
   name:                Henry Chen
