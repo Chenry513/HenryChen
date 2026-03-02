@@ -35,6 +35,10 @@ The calibration process works like this. First we run RANSAC plane fitting to is
 
 To actually inspect reconstructions and pick weld coordinates we built [WeldPath Viz](https://chenry513.github.io/weldpath-viz/visualize_weld.html), a browser based 3D point cloud viewer. You drop in the `.ply` file, rotate and zoom around the scene, then click directly on the point cloud to set a start and end point for the weld. It outputs the X, Y, Z coordinates and direction vector for the seam, and plays back an animated simulation of the weld path so you can check it visually before anything goes near a robot. No installs, runs entirely in the browser.
 
+Below is an example of a reconstructed butt joint `.ply` loaded into the visualizer, with the weld seam start and end points set.
+
+![WeldPath Viz example](/HenryChen/assets/img/blog/weldpath-example.png)
+
 ---
 
 ## ROS2 Integration (In Progress)
