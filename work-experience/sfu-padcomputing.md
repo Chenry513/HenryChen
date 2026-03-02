@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research Assistant — SFU PadComputing Lab"
-permalink: /work-experience/sfu-padcomputing/
+permalink: /HenryChen/work-experience/sfu-padcomputing/
 ---
 
 **Aug 2024 – Aug 2025 · Burnaby, BC**
