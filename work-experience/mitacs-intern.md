@@ -37,7 +37,7 @@ To actually inspect reconstructions and pick weld coordinates we built [WeldPath
 
 Below is an example of a reconstructed butt joint `.ply` loaded into the visualizer, with the weld seam start and end points set.
 
-![WeldPath Viz example](/HenryChen/assets/img/blog/weldpath-example.png)
+![WeldPath Viz example:](/HenryChen/assets/img/blog/weldpath-example.PNG)
 
 ---
 
