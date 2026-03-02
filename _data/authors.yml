@@ -4,19 +4,16 @@ author1:
   about:             |
     Hey, I'm Henry — I enjoy applying software engineering and machine learning to real-world problems.
     I completed my **B.Sc. in Computing Science** at **Simon Fraser University** and am currently pursuing my **M.Sc. in Applied Computing** at **BCIT** (expected Dec. 2026).
-
     Right now I'm working as a **Mitacs Research Intern** at BCIT in collaboration with Seaspan Shipyards,
     where I'm building data pipelines and ML models for robotic welding — developing computer vision systems
     that detect welding joints and guide automation in real-world manufacturing environments.
-
     Outside of work, you'll usually find me at the gym or snowboarding.
   picture:
-    path:            /assets/img/blog/logo.PNG
+    path:            /assets/img/hc-logo.svg
     srcset:
-      1x:            /assets/img/blog/logo.PNG
-      2x:            /assets/img/blog/logo.PNG
+      1x:            /assets/img/hc-logo.svg
+      2x:            /assets/img/hc-logo.svg
   social:
     github:          Chenry513
-    x:               <your-twitter-username>
-    # linkedin:      henry-chen-832a89386
+    linkedin:        henry-chen-832a89386
     email:           hchen285@my.bcit.ca
