@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mitacs Research Intern - BCIT and Seaspan Shipyards"
-permalink: /HenryChen/work-experience/mitacs-intern/
+permalink: /work-experience/mitacs-intern/
 ---
 
 **Jan 2026 – Present · Vancouver, BC**
@@ -29,7 +29,7 @@ To actually inspect reconstructions and pick weld coordinates we built [WeldPath
 
 Below is an example of a reconstructed butt joint `.ply` loaded into the visualizer, with the weld seam start and end points set.
 
-![WeldPath Viz example](/HenryChen/assets/img/blog/weldpath-example.PNG)
+![WeldPath Viz example](/assets/img/blog/weldpath-example.PNG)
 
 ## ROS2 Integration (In Progress)
 
