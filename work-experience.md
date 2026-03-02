@@ -8,7 +8,7 @@ title: Work Experience
 
 Research internship working on automated weld joint detection for robotic welding. The idea is to take a few photos of a weld joint and have the system figure out the 3D geometry on its own, so a robot knows exactly where to start and end the weld without anyone having to manually tell it.
 
-[More detail](/mitacs-intern/)
+[More detail](/HenryChen/work-experience/mitacs-intern/)
 
 ---
 
